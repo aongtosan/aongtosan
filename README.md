@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game && Software Dev 
 - 🌱 I’m currently learning Game && Software Dev Tech
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... LinkedIn Jakkapat Srikacha
 
 <!---
 aongtosan/aongtosan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aongtosan
 - 👀 I’m interested in Game && Software Dev 
-- 🌱 I’m currently learning Game && Software Dev Tech
+- 🌱 I’m currently learning Game && Software Dev Tech && DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... LinkedIn Jakkapat Srikacha
 
